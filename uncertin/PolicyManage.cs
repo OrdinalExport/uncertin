@@ -21,7 +21,7 @@ namespace uncertin
                 case "Description":
                     return "A custom honey policy module extension for Active Directory Certificate Services.";
                 case "Copyright":
-                    return "Copyright © Ben0xA 2025";
+                    return "Copyright © OrdinalExport 2025";
                 case "File Version":
                     return "0.1";
                 case "Product Version":
